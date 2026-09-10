@@ -7,14 +7,4 @@
     "date": "Today",
     "image": "https://launcher.riftcloud.xyz/banner.png",
     "link": "https://launcher.riftcloud.xyz"
-  },
-  {
-    "id": "2",
-    "title": "Join Our Community Discord",
-    "description": "Chat with staff, get fast support, and participate in giveaways.",
-    "tag": "COMMUNITY",
-    "date": "Featured",
-    "image": "https://launcher.riftcloud.xyz/discord.png",
-    "link": "https://discord.launcher.xyz"
   }
-]
